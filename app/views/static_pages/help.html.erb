@@ -1,0 +1,5 @@
+<% provide :title, t("layouts.header.help") %>
+<h1><%= t "layouts.header.help" %></h1>
+<p>
+  <%= sanitize t(".content", text: t("rails"), link_help_page: link_to(t("help"), Settings.settings.help), link_rails_book: link_to(t("book"), Settings.settings.book) )%>
+</p>
