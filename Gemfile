@@ -66,3 +66,9 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "i18n", "~> 1.8", ">= 1.8.11"
+
+gem "config", "~> 3.1"
+
+gem "bootstrap-sass", "~> 3.4", ">= 3.4.1"

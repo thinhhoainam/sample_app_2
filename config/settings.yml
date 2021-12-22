@@ -1,0 +1,10 @@
+settings:
+  rails_tutorial: "http://www.railstutorial.org/"
+  help: "http://www.railstutorial.org/help"
+  book: "http://www.railstutorial.org/book"
+  news: "https://news.railstutorial.org/"
+  author: "https://www.michaelhartl.com/"
+  contact: "https://www.railstutorial.org/contact"
+  about: "https://news.railstutorial.org/about"
+  learn_enough: "https://www.learnenough.com/"
+  screen_cast: "https://screencasts.railstutorial.org/"

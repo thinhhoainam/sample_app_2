@@ -1,0 +1,5 @@
+<% provide :title, t("layouts.header.contact") %>
+<h1><%= t "layouts.header.contact"%></h1>
+<p>
+  <%= sanitize t(".content", link: link_to(t("contact_page"), Settings.settings.contact))  %>
+</p>
